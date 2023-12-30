@@ -7,6 +7,7 @@ A **Search Engine** is an information retrieval system designed to help locate i
 
 2. **PageRank**  
 **PageRank** is a scoring system used by Google to determine the importance of a website. PageRank is calculated on a logarithmic scale from 1 to 10, based on the quantity and quality of links pointing to the website. Websites with high PageRank tend to rank higher on SERP (Search Engine Results Page), making PageRank crucial for website optimization. Examples of websites with high PageRank include google.com, facebook.com, and youtube.com.
+![image](https://github.com/ThuNganPythonista/SEO/blob/main/2b524473-cc86-443b-8272-1ef0ef915cd5.webp)
 
 3. **SEO**  
 **SEO** stands for Search Engine Optimization, a process of applying techniques and strategies to enhance the position and visibility of a website on search engines like Google, Bing, Yahoo!, and others. SEO helps a website appear at high positions in "organic" (or free) search results when users search for keywords or phrases related to the website's content. SEO is a key element in a company's online business strategy, as it can increase brand recognition, website traffic, potential customers, credibility, and e-commerce readiness. SEO consists of four fundamental principles: Keywords, On-page, Backlinks, and Off-page.
