@@ -11,6 +11,8 @@ A **Search Engine** is an information retrieval system designed to help locate i
 3. **SEO**  
 **SEO** stands for Search Engine Optimization, a process of applying techniques and strategies to enhance the position and visibility of a website on search engines like Google, Bing, Yahoo!, and others. SEO helps a website appear at high positions in "organic" (or free) search results when users search for keywords or phrases related to the website's content. SEO is a key element in a company's online business strategy, as it can increase brand recognition, website traffic, potential customers, credibility, and e-commerce readiness. SEO consists of four fundamental principles: Keywords, On-page, Backlinks, and Off-page.
 
+![image](https://github.com/ThuNganPythonista/SEO/blob/main/4F290AC9-769F-4218-9C87-C66E66CB2051.jpeg)
+
 - **Keywords** are words or phrases that users input into a search engine when seeking information, products, or services. Keywords are crucial to determining the content and goals of a website. Carefully researched and selected keywords should align with the target audience, accessibility, and search trends.
 
 - **On-Page** involves optimizing on-site factors, including content, meta tags, titles, URLs, images, source code, and page loading speed. The goal of On-Page is to make the website easily crawled, indexed, and understood by search engines, providing users with a positive experience when accessing the site.
