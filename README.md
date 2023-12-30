@@ -3,6 +3,8 @@
 1. **Search Engine**  
 A **Search Engine** is an information retrieval system designed to help locate information stored within a computer system. Search engines act as web librarians. They collect, analyze, and store data to facilitate quick and accurate information retrieval. The operation mechanism of a search engine typically involves three steps: Crawling, Indexing, and Ranking.
 
+![image](https://github.com/ThuNganPythonista/SEO/blob/main/search-engine.png)
+
 2. **PageRank**  
 **PageRank** is a scoring system used by Google to determine the importance of a website. PageRank is calculated on a logarithmic scale from 1 to 10, based on the quantity and quality of links pointing to the website. Websites with high PageRank tend to rank higher on SERP (Search Engine Results Page), making PageRank crucial for website optimization. Examples of websites with high PageRank include google.com, facebook.com, and youtube.com.
 
